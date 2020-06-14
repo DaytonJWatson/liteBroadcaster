@@ -1,0 +1,11 @@
+name: liteBroadcaster
+description: Configurable Lightweight Broadcaster Plugin
+author: DaytonJWatson
+version: 0.0.1
+api-version: 1.15
+main: me.dayton.AutoBroadcaster.Main
+commands:
+  broadcaster:
+    default: op
+    description: Shows Broadcaster's commands
+    permissions: broadcaster.info

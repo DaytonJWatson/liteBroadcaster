@@ -1,0 +1,22 @@
+########################################################################################
+#                                                                                      #
+#                           liteBroadcaster Configuration.                             #
+#                             Created by DaytonJWatson                                 #
+#                                  Version: 0.0.1                                      #
+#                                                                                      #
+#                                                                                      #
+#                                                                                      #
+#                                                                                      #
+########################################################################################
+
+liteBroadcaster-settings:
+  enabled: true
+  interval: 500
+  prefix: '&6liteBroadcaster &8>> &7'
+  prefix-enabled: true
+  
+message-list:
+    - 'Remember to read the rules!'
+    - 'Thanks for playing my server!'
+    - 'Supports color codes!'
+    - 'Add me on Discord &8> &bUnsocial#6136'
